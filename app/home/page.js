@@ -27,8 +27,7 @@ export default function page() {
                </p>
                <button  onClick={()=>navigater("/contact")}
                className="px-8 py-3 text-white font-semibold rounded-3xl bg-[#2383E2] cursor-pointer hover:bg-[#1F6DC0] 
-               transform transition duration-300 hover:translate-y-2 
-               hover:shadow-[0_6px_20px_0_rgba(47,129,247,0.8)] "
+              transform transition duration-300 hover:translate-y-2 shadow-lg hover:shadow-blue-500/50  "
                > Contact </button>
         </div>
         <div className="w-1/2  flex justify-center items-center ">

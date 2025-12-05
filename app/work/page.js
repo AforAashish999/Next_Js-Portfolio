@@ -91,7 +91,7 @@ export default function page() {
         <div className="w-1/2 flex flex-col justify-between z-10 ">
           <div>
             <h2 className="text font text-[#2F81F7]"> Feature Project </h2>
-            <h2 className="text-4xl text-white font-semibold tracking-wider "> AB RENOVATION</h2>
+            <h2 className="text-4xl text-white font-semibold tracking-wider "> AB Renovation </h2>
           </div>
           <div className="translate-x-20 p-8 relative ">
             {/* collapsing to another div */}
