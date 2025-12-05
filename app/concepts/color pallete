@@ -1,0 +1,24 @@
+:
+
+🔵 OPTION 1 — Dark Background + Blue Accent (Modern GitHub Style)
+
+This is the safest, cleanest, and most professional palette.
+
+🎨 COLOR PALETTE
+Purpose	Color	Tailwind
+Background (main)	#0D1117	bg-[#0D1117]
+Card / Section BG	#161B22	bg-[#161B22]
+Border subtle	#30363D	border-[#30363D]
+Text main	#ffffff	text-white
+Text secondary	#9BA3AF	text-[#9BA3AF]
+Accent Blue	#2F81F7	text-[#2F81F7]
+Accent Blue Hover	#1A5FD4	hover:text-[#1A5FD4]
+Button Blue	#2383E2	bg-[#2383E2]
+Button Hover	#1F6DC0	hover:bg-[#1F6DC0]
+✔ Where to use
+
+Accent blue for headings
+
+Cards use #161B22
+
+Projects section stands out perfectly
